@@ -1,0 +1,74 @@
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100%;
+    width: 100%;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav {
+    display: flex;
+    background-color: rgb(165, 87, 42);
+  }
+  nav li {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 3rem;
+  }
+  h1 {
+    color: rgb(39, 0, 0);
+    padding-left: 1rem;
+  }
+  img {
+    width: 5%;
+    margin-right: 3rem;
+    margin-top: 1rem;
+  }
+  section {
+    padding-right: 3rem;
+    padding-bottom: 300px;
+    background-color: rgb(129, 68, 32);
+  }
+  .acorn {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .bear {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .chocolate {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .dirt {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .football {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .log {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .monkey {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }

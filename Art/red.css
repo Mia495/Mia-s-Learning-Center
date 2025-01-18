@@ -1,0 +1,104 @@
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100%;
+    width: 100%;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav {
+    display: flex;
+    background-color: red;
+  }
+  nav li {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 3rem;
+  }
+  h1 {
+    color: rgb(63, 0, 0);
+    padding-left: 1rem;
+  }
+  img {
+    width: 5%;
+    margin-right: 3rem;
+    margin-top: 1rem;
+  }
+  section {
+    padding-right: 3rem;
+    padding-bottom: 300px;
+    background-color: rgb(255, 41, 41);
+  }
+  .apple {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .cherry {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .crab {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .firetruck {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .lips {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .pepper {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .rose {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .stopsign {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .strawberry {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .tomato {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .wagon {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .watermelon {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }

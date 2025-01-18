@@ -1,0 +1,111 @@
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100%;
+    width: 100%;
+  }
+  nav ul {
+    display: flex;
+    justify-content: center;
+  }
+  nav {
+    display: flex;
+    background-color: rgb(255, 124, 124);
+  }
+  nav li {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+  }
+  h1 {
+    color: rgb(107, 58, 60);
+    padding-left: 1rem;
+  }
+  img {
+    width: 5%;
+    margin-right: 3rem;
+    margin-top: 1rem;
+  }
+  .Circle {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Triangle {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Square {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Rectangle {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Oval {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Heart {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Pentagon {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Hexagon {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Octagon {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Diamond {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Star {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
+  .Crescent {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+    background-color: rgb(255, 186, 186);
+  }
