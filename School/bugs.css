@@ -1,0 +1,135 @@
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100%;
+    width: 100%;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav {
+    display: flex;
+    background-color: rgb(0, 196, 42);
+  }
+  nav li {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 3rem;
+  }
+  h1 {
+    color: rgb(0, 73, 0);
+    padding-left: 1rem;
+  }
+  img {
+    width: 5%;
+    margin-right: 3rem;
+    margin-top: 1rem;
+  }
+  section {
+    padding-right: 3rem;
+    padding-bottom: 300px;
+    background-image: url("https://png.pngtree.com/background/20220717/original/pngtree-original-light-green-watercolor-grass-lawn-background-picture-image_1650100.jpg");
+    background-size: cover;
+  }
+  .ant {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .bumblebee {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .butterfly {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .caterpillar {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .dragonfly {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .earthworm {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .flea {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px; 
+  }
+  .grasshopper {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .japanesebeetle {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .katydid {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .ladybug {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .mosquito {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .prayingmantis {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .moth {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .roach {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .snail {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .wasp {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
