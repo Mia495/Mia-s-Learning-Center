@@ -1,0 +1,189 @@
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100%;
+    width: 100%;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav {
+    display: flex;
+    background-color: rgb(39, 125, 255);
+  }
+  nav li {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 3rem;
+  }
+  h1 {
+    color: rgb(0, 50, 126);
+    padding-left: 1rem;
+  }
+  img {
+    width: 5%;
+    margin-right: 3rem;
+    margin-top: 1rem;
+  }
+  section {
+    padding-right: 3rem;
+    padding-bottom: 300px;
+    background-image: url("https://i.pinimg.com/736x/fc/fa/9b/fcfa9b380516309c424f78d486d0bc47.jpg");
+    background-size: cover;
+  }
+  .angelfish {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .bluewhale {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .crab {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .dolphin {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .eel {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .fish {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .goldfish {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .hammerheadshark {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .icefish {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .jellyfish {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .krill {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .lobster {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px; 
+  }
+  .manatee {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .narwhal {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .octopus {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .pufferfish {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .queenparrotfish {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .ray {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .seal {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .turtle {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .urchin {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .vampiresquid {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .walrus {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .xiphosura {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .yellowfintuna {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }
+  .zebrashark {
+    display: flex;
+    justify-content: center;
+    padding-right: 3rem;
+    padding-bottom: 30px;
+  }

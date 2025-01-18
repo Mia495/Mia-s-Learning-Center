@@ -1,0 +1,38 @@
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100%;
+    width: 100%;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav {
+    display: flex;
+    background-color: rgb(216, 80, 216);
+  }
+  nav li {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 3rem;
+  }
+  h1 {
+    color: rgb(117, 0, 117);
+    padding-left: 1rem;
+  }
+  h3 {
+    margin-block-start: 0px;
+  }
+  div {
+    padding-top: 1em;
+    text-align: center;
+  }
+  img {
+    width: 10%;
+  }
+  section {
+    padding-right: 3rem;
+    padding-bottom: 340px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/311/273/original/abstract-pink-purple-blurred-watercolor-background-free-vector.jpg");
+    background-size: cover;
+  }

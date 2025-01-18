@@ -1,0 +1,42 @@
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100%;
+    width: 100%;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav {
+    display: flex;
+    background-color: rgb(220, 178, 255);
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav li {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 3rem;
+  }
+  h1 {
+    color: rgb(77, 31, 114);
+    padding-left: 2rem;
+  }
+  h3 {
+      margin-block-start: 0px;
+    }
+    div {
+      padding-top: 1em;
+      text-align: center;
+    }
+  img {
+    width: 10%;
+  }
+  section {
+    padding-right: 3rem;
+    padding-bottom: 300px;
+    background-image: url("https://us.123rf.com/450wm/kunjankumar/kunjankumar2306/kunjankumar230600001/207926386-bookshelf-with-different-books-vector-illustration-in-flat-style.jpg?ver=6");
+    background-size: fill;
+  }
