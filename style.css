@@ -1,0 +1,49 @@
+html {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 100%;
+  width: 100%;
+}
+nav {
+  display: flex;
+  background-color: cyan;
+}
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
+nav {
+  display: flex;
+  background-color: cyan;
+}
+nav li {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 4rem;
+}
+h1 {
+  color: blue;
+  padding-left: 1rem;
+}
+section {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 3rem;
+  background-image: url("https://img.freepik.com/premium-vector/simple-cartoon-pink-flower-seamless-pattern_6997-3740.jpg");
+}
+.abcs-items, .art-supplies, .number-section, .extra-section{
+  border: 10px solid black;
+  background-color: rgb(168, 243, 168);
+  border-color: magenta;
+  border-style: ridge;
+  width: 15%;
+  height: 35rem;
+  margin-left: 2rem;
+}
+.abcs-items a,.art-supplies a, .number-section a, .extra-section a {
+  text-decoration:none;
+  color:navy;
+}
+.abcs-items a:hover,.art-supplies a:hover, .number-section a:hover, .extra-section a:hover{
+  color:red;
+  transition: .2s;
+}
